@@ -1,4 +1,4 @@
-# Classification
+# Classification link video : https://youtu.be/I2cYT5I1OUo
 Q1: Implement thuật toán perceptron phân loại chữ số
 
 So sánh feature vector của dữ liệu với feature vector của label và chọn ra cái giống nhất
